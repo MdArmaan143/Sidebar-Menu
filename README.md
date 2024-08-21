@@ -26,5 +26,5 @@ Feel free to customize the styles and content to fit your needs. Update the styl
 You can deploy this project using Netlify or any other hosting service. Simply upload the project files to your chosen platform.
 
 ## Contact
-For any questions or feedback, please reach out to your-armaanshaikhh786@.com.
+For any questions or feedback, please reach out to armaanshaikhh786@.com.
 
