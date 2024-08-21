@@ -16,18 +16,15 @@ Welcome to the Sidebar Menu Project! This project features a responsive sidebar 
 ## Installation
 To get started with this project, you can clone this repository and open the index.html file in your browser:
 
-git clone <>
-cd <repository-directory>
+git clone <https://github.com/MdArmaan143/CSS-Project.git>
 open index.html
+
 ## Customization
 Feel free to customize the styles and content to fit your needs. Update the style.css file to modify the design and the index.html file to change the content.
 
-Deployment
+## Deployment
 You can deploy this project using Netlify or any other hosting service. Simply upload the project files to your chosen platform.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
+## Contact
 For any questions or feedback, please reach out to your-armaanshaikhh786@.com.
 
