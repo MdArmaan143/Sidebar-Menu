@@ -28,11 +28,3 @@ You can deploy this project using Netlify or any other hosting service. Simply u
 ## Contact
 For any questions or feedback, please reach out to armaanshaikhh786@.com.
 
-
-
-
-
-- Developed Wanderlust, a full-stack web application for booking and hosting accommodations, featuring user authentication, a booking system, and interactive maps.
-- Built a Stock Trading Platform using the MERN stack, enabling real-time data updates and a user-friendly interface for managing stock portfolios.
-- Contributed to various open-source projects, enhancing codebases, fixing bugs, and adding new features using modern web technologies like React, Node.js, and MongoDB.
-- Implemented responsive designs and optimized user experiences across multiple devices.
